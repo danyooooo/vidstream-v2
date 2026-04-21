@@ -7,7 +7,7 @@
       "provider_3": true
     },
     "stream": {
-      "provider_1": true,
+      "provider_1": false,
       "provider_2": true,
       "provider_3": true,
       "provider_4": true,
@@ -15,7 +15,7 @@
       "provider_6": true,
       "provider_7": true,
       "provider_8": true,
-      "provider_9": false
+      "provider_9": true
     }
   }
 }
