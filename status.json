@@ -1,5 +1,5 @@
 {
-  "login_status": "ok",
+  "login_status": "block",
   "providers": {
     "metadata": {
       "provider_1": true,
