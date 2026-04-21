@@ -1,15 +1,20 @@
 {
-  "login": "ok",
-  "MetadataProvider1": true,
-  "MetadataProvider2": true,
-  "MetadataProvider3": true,
-  "StreamProvider1": true,
-  "StreamProvider2": true,
-  "StreamProvider3": true,
-  "StreamProvider4": true,
-  "StreamProvider5": true,
-  "StreamProvider6": true,
-  "StreamProvider7": true,
-  "StreamProvider8": true,
-  "StreamProvider9": false
+  "login_status": "ok",
+  "providers": {
+    "metadata": {
+      "provider_1": true,
+      "provider_2": true,
+      "provider_3": true
+    },
+    "stream": {
+      "provider_1": true,
+      "provider_2": true,
+      "provider_3": true,
+      "provider_4": true,
+      "provider_5": true,
+      "provider_6": true,
+      "provider_7": true,
+      "provider_8": true
+    }
+  }
 }
